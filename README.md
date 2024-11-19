@@ -58,7 +58,7 @@ Want to contribute to this project? Follow these steps:
 5. Create a Pull Request.
 
 ## 📄 License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/RabiaaNaseer/Shopifyclone/blob/main/MIT%20licence).
 
 ## 💡 Author
 **[Rabia Naseer](https://github.com/RabiaaNaseer)**  
